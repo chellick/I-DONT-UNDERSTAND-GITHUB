@@ -30,9 +30,14 @@ d = dict.fromkeys(['a', 'b'], 100)
 d
 {'a': 100, 'b': 100}
 ```
-`hsl(212, 92%, 45%)`
+`#ffffff`
 
 Dict are:
 - Nice
 - Usefull 
 - Interesting
+also:
+1. [] lol
+2. dont even care
+3. [x] Petar Martich
+
