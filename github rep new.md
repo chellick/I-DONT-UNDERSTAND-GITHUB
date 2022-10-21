@@ -46,9 +46,10 @@ also:
 new petar is ready
 
 $$
-\int_{}^{}\frac{dx}{\sqrt{x^{2}\pm a^{2}}}=\ln\left| x+\sqrt{x^{2}\pm a^{2}} \right| + C(a > 0)
+\int_{}^{}\frac{dx}{a^{2}+x^{2}}=\frac{1}{a}\arctan\frac{x}{a}+C   (a\neq 0)
 $$
 
 $$
-\int_{}^{}\frac{dx}{a^{2}+x^{2}}=\frac{1}{a}\arctan\frac{x}{a}+C   (a\neq 0)
+\int_{}^{}\frac{dx}{\sqrt{x^{2}\pm a^{2}}}=\ln\left| x+\sqrt{x^{2}\pm a^{2}} \right| + C(a > 0)
 $$
+
