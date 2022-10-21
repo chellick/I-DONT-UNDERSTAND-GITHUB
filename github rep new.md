@@ -53,3 +53,6 @@ $$
 \int_{}^{}\frac{dx}{\sqrt{x^{2}\pm a^{2}}}=\ln\left| x+\sqrt{x^{2}\pm a^{2}} \right| + C(a > 0)
 $$
 
+$$
+d*(f,g)= \int_{a}^{b}\left| f(t)-g(t)dt \right| <\delta
+$$
