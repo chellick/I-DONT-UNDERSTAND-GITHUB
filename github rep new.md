@@ -42,3 +42,6 @@ also:
 - [ ] lol
 - [ ] dont even care
 - [ ] Petar Martich
+
+new petar is ready
+ 
