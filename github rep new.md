@@ -31,8 +31,6 @@ d
 {'a': 100, 'b': 100}
 ```
 
-`#ffffff`
-
 Dict are:
 
 - Nice
